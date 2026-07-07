@@ -219,34 +219,6 @@ Building modern web applications, AI-powered systems, and engineering solutions 
 
 ---
 
-# Certifications
-
-### AWS
-
-<p>
-<img src="https://img.shields.io/badge/AWS-Learning%20Path-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-### Oracle
-
-<p>
-<img src="https://img.shields.io/badge/Oracle-Java%20Track-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### NPTEL
-
-<p>
-<img src="https://img.shields.io/badge/NPTEL-Continuous%20Learning-4F46E5?style=for-the-badge" />
-</p>
-
-### Cisco
-
-<p>
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
----
-
 # Coding Profiles
 
 <p align="center">
@@ -257,10 +229,6 @@ Building modern web applications, AI-powered systems, and engineering solutions 
 
 <a href="https://www.codechef.com/users/glbitm_215">
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge" />
-</a>
-
-<a href="https://codeforces.com/profile/sa1yam">
-<img src="https://img.shields.io/badge/Codeforces-Algorithmic%20Challenges-1F8ACB?style=for-the-badge" />
 </a>
 
 </p>
@@ -278,11 +246,15 @@ Building modern web applications, AI-powered systems, and engineering solutions 
   <img src="https://streak-stats.demolab.com?user=Sa1yam-Singh&theme=tokyonight&hide_border=true" />
 </p>
 ---
+---
+
 # GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sa1yam-Singh&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
+
+---
 ---
 
 # Contribution Activity
