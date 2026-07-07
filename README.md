@@ -262,24 +262,25 @@ Building modern web applications, AI-powered systems, and engineering solutions 
 
 # Current Focus
 
-learning:
+```yaml
+Learning:
   - Data Structures & Algorithms
   - System Design Fundamentals
   - Cloud Computing
   - Advanced Backend Engineering
 
-building:
+Building:
   - AI-Powered Developer Products
   - Full Stack SaaS Applications
   - Open Source Projects
 
-exploring:
+Exploring:
   - Generative AI
   - Agentic Workflows
   - Distributed Systems
   - MLOps
 
-open_to:
+Open To:
   - Software Engineering Internships
   - SDE Opportunities
   - AI Engineering Roles
