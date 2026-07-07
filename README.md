@@ -245,7 +245,6 @@ Building modern web applications, AI-powered systems, and engineering solutions 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sa1yam-Singh&theme=tokyonight&hide_border=true" />
 </p>
----
 
 # Contribution Activity
 
@@ -260,11 +259,9 @@ Building modern web applications, AI-powered systems, and engineering solutions 
 <p align="center">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sa1yam-Singh/Sa1yam-Singh/output/github-contribution-grid-snake-dark.svg">
 </p>
----
 
 # Current Focus
 
-```yaml
 learning:
   - Data Structures & Algorithms
   - System Design Fundamentals
