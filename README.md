@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Satyam%20Singh&fontAlign=50&fontAlignY=40&color=0:4F46E5,50:7C3AED,100:A855F7&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Scalable+Products;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Aspiring+Software+Engineer;Full+Stack+Developer;AI+%26+ML+Enthusiast;Building+Scalable+Products" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-Computer%20Science-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
@@ -87,13 +87,13 @@ Currently, I am focused on strengthening my foundations in **Data Structures & A
 
 | Domain                      | Proficiency  | Details                                    |
 | --------------------------- | ------------ | ------------------------------------------ |
-| Generative AI               | Advanced     | Gemini API, AI Agents, Prompt Engineering  |
-| Conversational AI           | Advanced     | Real-Time Voice Interaction Systems        |
-| Natural Language Processing | Advanced     | Whisper, Speech-to-Text, Semantic Analysis |
-| Machine Learning            | Intermediate | Model Training, Evaluation & Deployment    |
+| Generative AI               | Intermediate | Gemini API, AI Agents, Prompt Engineering  |
+| Conversational AI           | Basic        | Real-Time Voice Interaction Systems        |
+| Natural Language Processing | Basic        | Whisper, Speech-to-Text, Semantic Analysis |
+| Machine Learning            | Basic        | Model Training, Evaluation & Deployment    |
 | AI Product Development      | Advanced     | End-to-End AI Applications                 |
 | Computer Vision             | Intermediate | Eye-Gaze Tracking, MediaPipe Vision        |
-| Analytics Systems           | Advanced     | Performance Tracking & Insights            |
+| Analytics Systems           | Intermediate | Performance Tracking & Insights            |
 | MLOps Fundamentals          | Intermediate | AI Deployment Workflows                    |
 
 ---
@@ -245,16 +245,6 @@ Building modern web applications, AI-powered systems, and engineering solutions 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sa1yam-Singh&theme=tokyonight&hide_border=true" />
 </p>
----
----
-
-# GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sa1yam-Singh&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
 ---
 
 # Contribution Activity
