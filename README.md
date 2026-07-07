@@ -266,26 +266,23 @@ Building modern web applications, AI-powered systems, and engineering solutions 
 </p>
 
 ---
-
 # GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sa1yam-Singh&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sa1yam-Singh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sa1yam-Singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sa1yam-Singh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Sa1yam-Singh&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Sa1yam-Singh&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
-
 # GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sa1yam-Singh&theme=algolia&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sa1yam-Singh&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
-
 ---
 
 # Contribution Activity
@@ -299,9 +296,8 @@ Building modern web applications, AI-powered systems, and engineering solutions 
 # Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sa1yam-Singh/Sa1yam-Singh/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sa1yam-Singh/Sa1yam-Singh/output/github-contribution-grid-snake-dark.svg">
 </p>
-
 ---
 
 # Current Focus
